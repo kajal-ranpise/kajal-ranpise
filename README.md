@@ -32,6 +32,10 @@ I love building scalable web applications and crafting clean, user-friendly expe
   <a href="mailto:kajaldranpise@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kajaldranpise%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://hey-kajal.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-28A745?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 <h3 align="center">✨ "Think. Build. Improve." ✨</h3>
